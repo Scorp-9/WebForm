@@ -3,7 +3,7 @@
 Using JsonPowerDB 
 
 # Note
--Inside this small repo which consist of index.html file which will generate a simple Form that 
+- Inside this small repo which consist of index.html file which will generate a simple Form that 
 will accept and stored the user entered data using JsonPowerDB and API.
 
 # Benefits of JsonPowerDB :
